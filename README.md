@@ -1,5 +1,6 @@
-!st. Project-->
-# Snake-Water-Gun-Game
+# Code's Description
+1st Project-->
+#Snake-Water-Gun-Game
 
 This a game exactly clone to Rock-Paper-Scissors Game.
 The only Difference is the name of the game.
