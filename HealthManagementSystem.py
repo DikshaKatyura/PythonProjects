@@ -1,3 +1,12 @@
+''' 
+This is a code to track what you ate and
+what exercises you performed on daily basis.
+This code is Written only to store all the information into
+a text file.
+
+'''
+
+
 def getdate():
     import datetime
     return datetime.datetime.now()
