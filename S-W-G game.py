@@ -1,3 +1,12 @@
+''' 
+This Game is identical to Rock-Paper-Scissors. 
+The only difference is the name of it.
+from snake and water, snake wins by drinking all the water.
+from snake and gun, gun wins by shooting the snake.
+from gun and water, water wins by drowing the gun into water.
+'''
+
+
 import random as rn
 
 # noinspection PyBroadException
